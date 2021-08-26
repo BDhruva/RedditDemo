@@ -1,0 +1,6 @@
+framework module Pods_RedditDemo_RedditDemoUITests {
+  umbrella header "Pods-RedditDemo-RedditDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
